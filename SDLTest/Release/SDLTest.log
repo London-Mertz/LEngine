@@ -1,0 +1,17 @@
+﻿  The vcpkg manifest was disabled, but we found a manifest file in C:\Users\londo\source\repos\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+  fps.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_sdl3.cpp
+  imgui_impl_sdlrenderer3.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2747 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SDLTest.vcxproj -> C:\Users\londo\source\repos\SDLTest\Release\SDLTest.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
