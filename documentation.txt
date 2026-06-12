@@ -1,0 +1,3 @@
+This software utilises Dear ImGui (written by Omar Cornut  2014-present), and the SDL3 multimedia, mixer, audio and image layer libraries written by Sam Lantinga <slouken@libsdl.org>.
+
+  A full documentation is still pending.
